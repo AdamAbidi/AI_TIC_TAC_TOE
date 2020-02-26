@@ -9,7 +9,7 @@ The player will sometimes faces some choices where the gain is 50% (yellow).
 ![HOME](https://raw.githubusercontent.com/AdamAbidi/AI_TIC_TAC_TOE/master/Images/1.jpg)
 
 ## Images :
-![Image1](https://raw.githubusercontent.com/AdamAbidi/AI_TIC_TAC_TOE/master/Images/2.jpg)
-![Image2](https://raw.githubusercontent.com/AdamAbidi/AI_TIC_TAC_TOE/master/Images/3.jpg)
-![Image3](https://raw.githubusercontent.com/AdamAbidi/AI_TIC_TAC_TOE/master/Images/4.jpg)
+![Image1](https://raw.githubusercontent.com/AdamAbidi/AI_TIC_TAC_TOE/master/Images/2.png)
+![Image2](https://raw.githubusercontent.com/AdamAbidi/AI_TIC_TAC_TOE/master/Images/3.png)
+![Image3](https://raw.githubusercontent.com/AdamAbidi/AI_TIC_TAC_TOE/master/Images/4.png)
 
