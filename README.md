@@ -6,6 +6,8 @@ Two players compete. Each one has to fill in a box on the grid with the identica
 The player comes across the PC in this game.
 The CPU will apply the AI algorithms, while the player has the freedom of choice knowing that the interface also offers him the suggested (blue) and prohibited (red) movements.
 The player will sometimes faces some choices where the gain is 50% (yellow).
+
+
 ![HOME](https://raw.githubusercontent.com/AdamAbidi/AI_TIC_TAC_TOE/master/Images/1.jpg)
 
 ## Images :
