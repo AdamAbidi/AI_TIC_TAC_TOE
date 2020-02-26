@@ -15,3 +15,6 @@ The player will sometimes faces some choices where the gain is 50% (yellow).
 ![Image2](https://raw.githubusercontent.com/AdamAbidi/AI_TIC_TAC_TOE/master/Images/3.png)
 ![Image3](https://raw.githubusercontent.com/AdamAbidi/AI_TIC_TAC_TOE/master/Images/4.png)
 
+
+# Installation:
+npm install @adamabidi/ai_tic_tac_toe@1.0.0
